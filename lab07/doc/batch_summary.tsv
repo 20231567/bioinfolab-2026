@@ -1,0 +1,4 @@
+filename	count	total_len	avg_gc
+lower.fasta	2	20	0.650
+seqs.fasta	3	67	0.504
+seqs2.fasta	2	16	0.250

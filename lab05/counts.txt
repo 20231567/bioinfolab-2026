@@ -1,0 +1,2 @@
+seqs.fasta:5
+other.fasta:12
